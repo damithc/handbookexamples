@@ -1,6 +1,6 @@
 package handoutexamples;
 
-public class PayrollTestDriver {
+public class PayrollDriver {
     public static void main(String[] args) {
         //test setup
         Payroll p = new Payroll();
